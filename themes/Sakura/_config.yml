@@ -1,6 +1,6 @@
 # site name
-prefixName: さくら荘その
-siteName: hojun
+prefixName: 站点前缀
+siteName: sitename
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
