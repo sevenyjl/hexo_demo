@@ -5,7 +5,7 @@ node_js:
 cache: npm
 branches:
   only:
-    - hexo_demo # 仅从 blog-source 分支构建
+    - master # 仅从 blog-source 分支构建
 script:
   - hexo generate # generate static files
 deploy:
